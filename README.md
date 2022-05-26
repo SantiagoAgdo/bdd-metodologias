@@ -1,2 +1,2 @@
 # bdd-metodologias
-pinche proyecto final :/
+ proyecto final 
