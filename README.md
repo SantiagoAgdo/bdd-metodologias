@@ -60,4 +60,5 @@ basado en tematica de almacenar x cosa en una maleta, con funcionamiento adicion
 
 
 Se tubo como ejemplo el repo de -> https://github.com/cronn/cucumber-junit5-example
+Tambien se utilizo como base proyectos de  @Mechero como tutoria
 >>>>>>> 1cb8e06a08a0752908735cf9147ec828f9160c21
