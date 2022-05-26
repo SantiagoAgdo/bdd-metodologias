@@ -1,7 +1,10 @@
-# Cucumber in Spring Boot using Dependency Injection
+# Proyecto Metodologia Avanzada de Software
 
-This code sample shows how to use Dependency Injection in Cucumber within a Spring Boot application.
+Este proyecto consiste en la aplicacion de metodologia BDD
 
-You can find the complete instructions on this post at The Practical Developer site: [Cucumber Tests with Dependency Injection using Spring Boot](https://thepracticaldeveloper.com/cucumber-tests-spring-boot-dependency-injection//)
+En la que se ejecutan distintas 3 features 
 
-![Cucumber and Dependency Injection in a Spring Boot App - The Practical Developer](images/cucumber-spring-boot.png)
+basado en tematica de almacenar x cosa en una maleta, con funcionamiento adicional de servicios REST
+
+
+Se tubo como ejemplo el repo de -> https://github.com/cronn/cucumber-junit5-example
